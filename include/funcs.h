@@ -2,6 +2,6 @@
 #define FUNCS_H
 
 int foo();
-void goo();
+int goo();
 
 #endif // FUNCS_H

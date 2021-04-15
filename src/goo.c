@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void goo() {
-printf("goo\n");
+int goo() {
+printf("hello goo\n");
+
+return 0;
 }
