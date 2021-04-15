@@ -2,7 +2,7 @@
 #include "funcs.h"
 
 int goo() {
-printf("goo\n");
+printf("hello goo\n");
 
 return 0;
 }
