@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void foo() {
+int foo() {
 printf("foo\n");
+printf("second foo\n");
+
+return 0;
 }
